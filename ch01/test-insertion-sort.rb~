@@ -1,0 +1,13 @@
+#!/usr/bin/ruby -w
+#    Hey, Emacs, this is a -*- Mode: Ruby -*- file!
+#
+#    File:
+#       test-insertion-sort.rb
+#
+#    Synopsis:
+#
+#
+#    Revision History:
+#        Date             Change Description
+#       ------ -----------------------------------------
+#       240514 Original.
